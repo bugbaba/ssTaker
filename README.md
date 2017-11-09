@@ -18,6 +18,8 @@ and then generate a simple html report file
 `
 
 
-### Note :
+
 Do let me know if you know how can we make it fast :)
 
+You can reach me on [Twitter](https://twitter.com/nomanAli181)
+And Read my [Blog](https://bugbaba.blogspot.com)
