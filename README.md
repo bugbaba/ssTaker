@@ -17,24 +17,6 @@ and then generate a simple html report file
 ./ssTaker.sh urls
 `
 
-The urls list file should be without protocol 
-That is it should look like this 
+This branch contains some experiments that I am trying with this script
 
-``` 
->> cat urls
-example.com
-yahoo.com
-```
-
-
-
-##### Thanks [Sahil](https://twitter.com/IsrSahilMk) For pointing this out
-
-
-
-
-
-Do let me know if you know how can we make it fast :)
-
-You can reach me on [Twitter](https://twitter.com/nomanAli181)
-And Read my [Blog](https://bugbaba.blogspot.com)
+Read [Notes](notes.md) for mind proccess regarding this.
