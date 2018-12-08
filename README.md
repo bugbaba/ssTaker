@@ -13,9 +13,38 @@ and then generate a simple html report file
 
 
 ### Usage :
-`
-./ssTaker.sh urls
-`
+```
+             .--.         .--.
+                 \       /
+          |\      `\___/'       /|
+           \\    .-'@ @`-.     //
+           ||  .'_________`.  ||
+            \\.'^    Y    ^`.//
+            .'       |       `.
+           :         |         :
+          :          |          :
+          :          |          :
+          :     _    |    _     :
+          :.   (_)   |   (_)    :
+        __::.        |          :__
+       /.--::.       |         :--.\
+    __//'   `::.     |       .'   `\\___
+   `--'     //`::.   |     .'\\     `--'
+            ||  `-.__|__.-'   ||
+            ||                ||
+            //                \\
+           |/                  \|
+         ssTaker By @nomanAli181
+
+
+Usage: ./ssTaker.sh [options]
+
+./ssTaker.sh file.txt                    -> Screenshot of domains in file.txt
+./ssTaker.sh -f file.txt                -> Screenshot of domains in file.txt
+./ssTaker.sh -h                          -> Print this help message
+./ssTaker.sh -f file.txt -p 80,443       -> Screenshot of domains in file.txt on specified ports
+
+```
 
 The urls list file should be without protocol 
 That is it should look like this 
