@@ -46,8 +46,7 @@ Usage: ./ssTaker.sh [options]
 
 ```
 
-The urls list file should be without protocol 
-That is it should look like this 
+The urls list file should be without protocol, thanks [Sahil](https://twitter.com/IsrSahilMk) for pointing this out.
 
 ``` 
 >> cat urls
@@ -57,13 +56,13 @@ yahoo.com
 
 
 
-##### Thanks [Sahil](https://twitter.com/IsrSahilMk) For pointing this out
+## update
+Added -f file and -p ports flags as requested by [Streaak](https://twitter.com/streaak)
+you can check the [Sample Report](https://bugbaba.github.io/ssTaker/Dec-Sat-09-41/report.html)
 
 
 
 
+Do let me know if you have any ideas for this, also do check v2 branch of this repository :)
 
-Do let me know if you know how can we make it fast :)
-
-You can reach me on [Twitter](https://twitter.com/nomanAli181)
-And Read my [Blog](https://bugbaba.blogspot.com)
+You can reach me via [Twitter](https://twitter.com/nomanAli181)
