@@ -29,7 +29,7 @@ cat << "EOF"
      	 ssTaker By @nomanAli181
 EOF
 
-makefile(){
+makefile({
 
 	output=$(date +%b-%a-%H-%M)
 	if [ -d "$output" ]; then
